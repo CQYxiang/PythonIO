@@ -4,3 +4,6 @@ with open("text.txt","w") as fp:
     fp.write("this is a sample")
 
 fp.close()
+
+
+'''this is a test function'''
